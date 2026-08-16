@@ -1,0 +1,85 @@
+# Arduino IDE
+*.o
+*.a
+*.so
+*.elf
+*.bin
+*.hex
+
+# Build directories
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# ESP-IDF build
+sdkconfig
+sdkconfig.old
+sdkconfig.defaults.old
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Windows
+Thumbs.db
+*.lnk
+desktop.ini
+
+# Linux
+.directory
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# pytest
+.pytest_cache/
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+.#*
+
+# Data files (if desired to exclude)
+# *.csv
+# *.bin
+# data/
+
+# Arduino IDE temp
+.arduino/
+hardware/
