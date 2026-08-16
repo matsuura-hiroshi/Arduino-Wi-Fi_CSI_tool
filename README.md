@@ -131,13 +131,7 @@ Matsuura, H. (2026). Arduino Wi-Fi CSI Tool. https://github.com/matsuura-hiroshi
 
 ---
 
-## 1.9 Acknowledgment
-
-This software is a result of research supported by the Ministry of Internal Affairs and Communications, Japan, under the Fundamental Technologies for Sustainable Efficient Radio Wave Use R&D Project (FORWARD).
-
----
-
-## 1.10 Support
+## 1.9 Support
 
 If you have problems or questions, please let us know on GitHub Issues.
 Reply is not expected.
@@ -277,14 +271,7 @@ Matsuura, H. (2026). Arduino Wi-Fi CSI Tool. https://github.com/matsuura-hiroshi
 
 ---
 
-## 2.9 謝辞
-
-本ソフトウェアは，総務省「持続可能な電波有効利用のための基盤技術研究開発事業（FORWARD）」の支援を受けて実施した研究の成果の一部です．
-
----
-
-## 2.10 サポート
+## 2.9 サポート
 
 問題や質問がある場合は，GitHub Issues でお知らせください．
-
 返信は期待しないでください．
