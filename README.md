@@ -140,14 +140,13 @@ This software is a result of research supported by the Ministry of Internal Affa
 ## 1.10 Support
 
 If you have problems or questions, please let us know on GitHub Issues.
-
 Reply is not expected.
 
 ---
 
 ---
 
-# 2. Arduino Wi-Fi CSI Tool（日本語）
+# 2. Arduino Wi-Fi CSI Tool
 
 本ソフトはArduino IDE 対応の Wi-Fi CSI センシングを目的として作りました．大学教育と簡単な実験に使うためのもので商用にするにはさらに改良する必要があるでしょう．
 
@@ -267,7 +266,6 @@ CSI 取得設定として `CSILLTF 1`，`CSIHT 1`，`CSISTBC 1` で L-LTF・HT-L
 ## 2.7 ライセンス
 
 MIT License (c) 2026 Hiroshi Matsuura
-
 詳細は LICENSE ファイルを参照してください．
 
 ---
@@ -275,7 +273,6 @@ MIT License (c) 2026 Hiroshi Matsuura
 ## 2.8 引用
 
 本プロジェクトを使用される場合，以下のように引用していただけると嬉しいです．
-
 Matsuura, H. (2026). Arduino Wi-Fi CSI Tool. https://github.com/matsuura-hiroshi/Arduino-Wi-Fi_CSI_tool
 
 ---
